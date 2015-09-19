@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andreasordell/rhubarb/issues"
   },
-  "homepage": "https://github.com/andreasordell/rhubarb#readme"
+  "homepage": "https://github.com/andreasordell/rhubarb#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
